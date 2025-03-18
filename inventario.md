@@ -5,4 +5,5 @@
 "Riferimento a processori" 
 "Riferimento schede madri" 
 "Riferimento a tastiere"
+"Riferimento a mouse"
 "Elettronica Padovana" 
