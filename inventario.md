@@ -1,4 +1,5 @@
 "Sottotitolo componenti"
+"Sottotitolo periferiche"
 "2101060" 
 "2101065" 
 "Riferimento a processori" 
