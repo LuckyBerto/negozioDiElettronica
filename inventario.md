@@ -4,4 +4,5 @@
 "2101065" 
 "Riferimento a processori" 
 "Riferimento schede madri" 
+"Riferimento a mouse"
 "Elettronica Padovana" 
